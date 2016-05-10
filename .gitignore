@@ -32,4 +32,8 @@ node_modules
 # Optional REPL history
 .node_repl_history
 
+# Ignore system file stuff
 .DS_store
+
+# Ignore CSS build
+styles.css
